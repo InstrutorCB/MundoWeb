@@ -41,4 +41,14 @@ __Estou aprendendo uma coisa nova__
 
 [Site para bolo de festa](https://www.sabornamesa.com.br/bolos/bolo-de-festa-simples)
 
+### Exercício
+
++ Lista
+    - Utilizar títuto grande
+    - Utilizar sub-título
+    - Utilizar uma lista
+    - Utilizar uma imagem
+    - Utilizar um link
+
+__Obs__.: Utilizar pelo menos um de cada
 
