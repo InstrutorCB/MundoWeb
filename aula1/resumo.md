@@ -1,24 +1,24 @@
-#Aula 1
+# Aula 1
 
-##Markdown
+## Markdown
 
 O _Markdown_ é uma __linguagem de marcação__ utilizada para resumir determinados contextos como processo de criação e utilização de um projeto,isso dentro da área de desenvolvimento em Tecnologia da Informação(TI). 
 
-####Alguns elementos de marcação
+#### Alguns elementos de marcação
 
-#####Texto:
+##### Texto:
 
-#Estou aprendendo uma coisa nova
-##Estou aprendendo uma coisa nova
-###Estou aprendendo uma coisa nova
-####Estou aprendendo uma coisa nova
-#####Estou aprendendo uma coisa nova
-######Estou aprendendo uma coisa nova
+# Estou aprendendo uma coisa nova
+## Estou aprendendo uma coisa nova
+### Estou aprendendo uma coisa nova
+#### Estou aprendendo uma coisa nova
+##### Estou aprendendo uma coisa nova
+###### Estou aprendendo uma coisa nova
 _Estou aprendendo uma coisa nova_
 __Estou aprendendo uma coisa nova__
 
 
-#####Lista:
+##### Lista:
 
 + Bolo de Festa
     + Ingredientes
@@ -35,7 +35,7 @@ __Estou aprendendo uma coisa nova__
         - Deixar o bolo esfriar (15 minutos)
         - Confeitar o bolo
 
-#####Imagens e Links
+##### Imagens e Links
 
 ![Bolo de Festa](https://www.lactosenao.com/wp-content/uploads/2017/07/bolo-festa-sem-gluten-e-lactose.png)
 
